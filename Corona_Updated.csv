@@ -1,4 +1,4 @@
-Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude,Temprature,Humidity,Temp_Cat,Humid_Cat
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude,Temperature,Humidity,Temp_Cat,Humid_Cat
 Hubei,Mainland China,2020-03-10T15:13:05,67760,3024,47743,30.9756,112.2707,12.5,86,1,1
 ,Italy,2020-03-10T17:53:02,10149,631,724,43.0,12.0,12.9,64,1,1
 ,Iran (Islamic Republic of),2020-03-10T19:13:20,8042,291,2731,32.0,53.0,11.9,9,0,0
